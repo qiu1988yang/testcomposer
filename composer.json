@@ -1,0 +1,18 @@
+{
+    "name": "29465/testcomposer",
+    "description": "个人test包",
+    "type": "1",
+    "license": "Apache",
+    "autoload": {
+        "psr-4": {
+            "siam\\": "src/siam"
+        }
+    },
+    "authors": [
+        {
+            "name": "qiuyang"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
