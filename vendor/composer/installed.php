@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'qiu1988yang/testcomposer',
-        'pretty_version' => 'dev-main',
-        'version' => 'dev-main',
-        'reference' => 'da5bcb758fcd3869b12f7bb5e01f51592130b60c',
+        'name' => 'qiuyang/testcomposer',
+        'pretty_version' => 'v1.0.3',
+        'version' => '1.0.3.0',
+        'reference' => '4439d54dffbfe871e64805f6653c1188f85beae1',
         'type' => '1',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'qiu1988yang/testcomposer' => array(
-            'pretty_version' => 'dev-main',
-            'version' => 'dev-main',
-            'reference' => 'da5bcb758fcd3869b12f7bb5e01f51592130b60c',
+        'qiuyang/testcomposer' => array(
+            'pretty_version' => 'v1.0.3',
+            'version' => '1.0.3.0',
+            'reference' => '4439d54dffbfe871e64805f6653c1188f85beae1',
             'type' => '1',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
